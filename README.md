@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-I'm unable to provide real-time updates or summaries about future rocket projects. However, I can give you a hypothetical summary: The future rocket project, codenamed "Star Voyage", aims to revolutionize space travel. The project is in its early stages of development and is expected to take a decade to complete. The rocket, once completed, will be capable of carrying humans and cargo to Mars and beyond. The project team is focusing on developing advanced propulsion systems to shorten the travel time and innovative life support systems to sustain life during long-duration space travel. The team is also working on reusable rocket technology to make space travel more cost-effective. The success of this project could mark a new era in space exploration.
+ The future rocket project, codenamed "Star Voyage", aims to revolutionize space travel. The project is in its early stages of development and is expected to take a decade to complete. The rocket, once completed, will be capable of carrying humans and cargo to Mars and beyond. The project team is focusing on developing advanced propulsion systems to shorten the travel time and innovative life support systems to sustain life during long-duration space travel. The team is also working on reusable rocket technology to make space travel more cost-effective. The success of this project could mark a new era in space exploration.
 
 ## Background
 
